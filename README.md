@@ -1,5 +1,5 @@
-<p align="center">**Hi there 👋, My name is Sveta** </p>
-<p align="center">**I'm from Russia, Moscow city💫** </p>
+<b align="center">Hi there 👋, My name is Sveta </b>
+<p align="center">I'm from Russia, Moscow city💫 </p>
 <p align="center"><img src="https://github.com/SvShatunova/SvShatunova/blob/main/assets/profile.jpg"  /></p>
 
 👩‍💻 About me:
