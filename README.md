@@ -7,6 +7,7 @@
 I'm a beginner Python developer. From January 2023 to April 2024, I studied Python development in Yandex Workshop courses. At the moment, my training on the course is completed and I am ready for offers.
 
 🛠 Skills:
+
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/DJANGO-1f6e4b.svg?&style=flat&logo=django&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
