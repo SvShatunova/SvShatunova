@@ -29,18 +29,10 @@ I'm a beginner Python developer. From January 2023 to April 2024, I studied Pyth
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Это+сложно,+но...+очень+интересно!)](https://git.io/typing-svg)
 
-<div align="center">
-<p>
-<a href="https://github.com/SvShatunova.vercel.app/demo.html">Get your own cards now!!</a>
-</p>
+🔥 Stats:
 
-
-![](https://raw.githubusercontent.com/SvShatunova/SvShatunova/master/SvShatunova-output/solarized/0-profile-details.svg)
-![](https://raw.githubusercontent.com/SvShatunova/SvShatunova/master/SvShatunova-output/solarized/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/SvShatunova/SvShatunova/master/SvShatunova-output/solarized/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/SvShatunova/SvShatunova/master/SvShatunova-output/solarized/3-stats.svg)
-![](https://raw.githubusercontent.com/SvShatunova/SvShatunova/master/SvShatunova-output/solarized/4-productive-time.svg)
-
-</div>
+[![Stats](https://github-readme-stats.vercel.app/api?username=SvShatunova&show_icons=true&count_private=true&theme=transparent&hide_border=true&hide=issues,contribs&show=prs_merged,reviews&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SvShatunova&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&langs_count=6&hide=dockerfile,css,shell,procfile)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SvShatunova&hide_border=true&theme=transparent&bg_color=00000000)](https://git.io/streak-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SvShatunova&theme=modern-lilac)](https://github.com/SvShatunova/github-readme-activity-graph)
