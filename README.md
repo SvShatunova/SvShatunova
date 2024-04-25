@@ -1,8 +1,7 @@
 <p align="center"><img src="https://github.com/SvShatunova/SvShatunova/blob/main/assets/profile.jpg"  /></p>
 
 ## Hi, I'am Svetlana Shatunova, a Developer 👋
-## I'm from Russia, Moscow city💫 
-
+## I'm from Russia, Moscow city💫
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/DJANGO-1f6e4b.svg?&style=flat&logo=django&logoColor=white)&nbsp;
@@ -16,9 +15,8 @@
 ![Nginx](https://img.shields.io/badge/NGINX-269539.svg?&style=flat&logo=nginx&logoColor=white)&nbsp;
 ![GithubActions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF.svg?&style=flat&logo=github-actions&logoColor=white)&nbsp;
 
-
-[github](https://github.com/SvShatunova/SvShatunova)
-[telegram](@ShatunovaSv)
+<a href="https://t.me/ShatunovaSv" target="_blank">
+<a href="https://github.com/SvShatunova/SvShatunova" target="_blank">
 
 <!--
 **SvShatunova/SvShatunova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
