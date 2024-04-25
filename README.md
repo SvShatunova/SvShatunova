@@ -35,11 +35,11 @@ I'm a beginner Python developer. From January 2023 to April 2024, I studied Pyth
 </p>
 
 
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/SvShatunova-output/solarized/0-profile-details.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/SvShatunova-output/solarized/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/SvShatunova-output/solarized/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/SvShatunova-output/solarized/3-stats.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/SvShatunova-output/solarized/4-productive-time.svg)
+![](https://raw.githubusercontent.com/SvShatunova/SvShatunova/master/SvShatunova-output/solarized/0-profile-details.svg)
+![](https://raw.githubusercontent.com/SvShatunova/SvShatunova/master/SvShatunova-output/solarized/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/SvShatunova/SvShatunova/master/SvShatunova-output/solarized/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/SvShatunova/SvShatunova/master/SvShatunova-output/solarized/3-stats.svg)
+![](https://raw.githubusercontent.com/SvShatunova/SvShatunova/master/SvShatunova-output/solarized/4-productive-time.svg)
 
 </div>
 
