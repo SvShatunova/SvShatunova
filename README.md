@@ -19,7 +19,7 @@ I'm a beginner Python developer. From January 2023 to April 2024, I studied Pyth
 ![Nginx](https://img.shields.io/badge/NGINX-269539.svg?&style=flat&logo=nginx&logoColor=white)&nbsp;
 ![GithubActions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF.svg?&style=flat&logo=github-actions&logoColor=white)&nbsp;
 
-- 📫 How to reach me: [telegram](https://t.me/ShatunovaSv)
+📫 How to reach me: [telegram](https://t.me/ShatunovaSv)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/SvShatunova)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sv.shatunova/)
@@ -27,3 +27,5 @@ I'm a beginner Python developer. From January 2023 to April 2024, I studied Pyth
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/habr.svg' alt='habr' height='40'>](https://career.habr.com/svshatunova)  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Это+сложно,+но...+очень+интересно!)](https://git.io/typing-svg)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?SvShatunova=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
