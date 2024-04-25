@@ -1,4 +1,4 @@
-<b align="center">Hi there 👋, My name is Sveta </b>
+<p align="center"><b>Hi there 👋, My name is Sveta</b> </p>
 <p align="center">I'm from Russia, Moscow city💫 </p>
 <p align="center"><img src="https://github.com/SvShatunova/SvShatunova/blob/main/assets/profile.jpg"  /></p>
 
