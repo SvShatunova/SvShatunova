@@ -1,4 +1,4 @@
-<img src="https://github.com/SvShatunova/blob/main/assets/profile.jpg"  />
+<p align="center"><img src="https://github.com/SvShatunova/SvShatunova/blob/main/assets/profile.jpg"  /></p>
 
 ## Hi, I'am Svetlana Shatunova, a Developer 👋
 ## I'm from Russia, Moscow city💫 
