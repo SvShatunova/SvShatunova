@@ -28,4 +28,4 @@ I'm a beginner Python developer. From January 2023 to April 2024, I studied Pyth
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Это+сложно,+но...+очень+интересно!)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=https://github.com/SvShatunova)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SvShatunova)](https://github.com/SvShatunova/github-readme-activity-graph)
