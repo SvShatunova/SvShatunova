@@ -1,5 +1,5 @@
 <p align="center"><b>Hi there 👋, My name is Sveta</b> </p>
-<p align="center">I'm from Russia, Moscow city💫 </p>
+<p align="center"><b>I'm from Russia, Moscow city💫</b> </p>
 <p align="center"><img src="https://github.com/SvShatunova/SvShatunova/blob/main/assets/profile.jpg"  /></p>
 
 👩‍💻 About me:
@@ -29,4 +29,18 @@ I'm a beginner Python developer. From January 2023 to April 2024, I studied Pyth
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Это+сложно,+но...+очень+интересно!)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SvShatunova)](https://github.com/SvShatunova/github-readme-activity-graph)
+<div align="center">
+<p>
+<a href="https://github.com/SvShatunova.vercel.app/demo.html">Get your own cards now!!</a>
+</p>
+
+
+![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/SvShatunova-output/solarized/0-profile-details.svg)
+![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/SvShatunova-output/solarized/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/SvShatunova-output/solarized/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/SvShatunova-output/solarized/3-stats.svg)
+![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/SvShatunova-output/solarized/4-productive-time.svg)
+
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SvShatunova&theme=modern-lilac)](https://github.com/SvShatunova/github-readme-activity-graph)
